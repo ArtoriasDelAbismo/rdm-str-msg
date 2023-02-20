@@ -1,0 +1,17 @@
+{
+  "name": "rdm-str-msg",
+  "version": "1.0.0",
+  "description": "Generates a random string phrase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jeronimo journade <jerojournade1@gmai.com>",
+  "license": "MIT",
+
+  "bin": {
+    "rdm-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
