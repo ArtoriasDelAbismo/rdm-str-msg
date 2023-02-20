@@ -5,6 +5,7 @@ Generates a random string phrase
 
 ```npm
 npm install -g rdm-str-msg
+```
 
 # Usage
 
